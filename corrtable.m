@@ -1,5 +1,5 @@
 function [r,p,n]=corrtable(yourtable,exclude)
-%JFH 2017 Correlate Table values, excluding first exclude rows
+%Jeremy Huckins 2017 Correlate Table values, excluding first exclude rows
 r=[];
 p=[];
 n=[];
